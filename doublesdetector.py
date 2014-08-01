@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #
 # Hello, this script is written in Python - http://www.python.org
+# Source unknown. Modified to just find duplicate files and report
 # doublesdetector.py 1.0p
 import os, os.path, string, sys, sha
 
